@@ -4,3 +4,8 @@ another edit via github.com 221116 13:46 origin/master
 line added in local branch test via vi 221116 13:52 
 line added in local branch test via vi 221116 14:52 
 line added in origin/master on 221116 14:49
+
+CREATE TABLE deutsch (
+schluessel int,
+wert text)
+
