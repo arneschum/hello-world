@@ -9,4 +9,4 @@ CREATE TABLE english (
 key int,
 value text)
 
-commit 1
+
